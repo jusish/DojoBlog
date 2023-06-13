@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Use CHATGPT well. ",
+      "body": "Most of us CHAT GPT wrong \n    We do not include examples in our prompts. We ignore that we can control behaviors of ChatGPT with roles. We let ChatGPT guess stuff instead of providing it with some information. This happens because we mostly use standard prompts that might help us get the job done once, but not all the time. We need to learn how to create high-quality prompts to get better results. We need to learn prompt engineering! And, in this guide, we all learn 4 techniques used in prompt engineering. ",
+      "author": "PyCoach",
+      "id": 1
+    },
+    {
+      "title": "Writing Effective Technical Articles in 6 Easy Steps",
+      "body": "Knowledge is incredibly important in todays world, especially technical knowledge that can impact many lives. That is why the “sharing is caring” approach to knowledge — sharing what you have for the benefit of others — is so important.Writing technical articles is a great way to share your knowledge with others and contribute to the growth of the community. While I have shared my knowledge in many technical articles, I also want to share how I write these articles, in hopes that it may be valuable to others. Regardless, it is my experience, and you can use it to shape your own.Let us explore how I plan and write technical articles. I try to follow six main steps in my process. At the end of this process, my articles are ready for you! ",
+      "author": "Evren Tan",
+      "id": 2
+    },
+    {
+      "title": "How to be the Product Manager UX designers love",
+      "body": "It is spring 2020, with Covid-19 in full swing, cities all over Europe are tentatively trying to emerge from lockdowns, despite social distancing and having to avoid public transportation. People are looking for easy ways to get to grocery stores, get some exercise in, and get out of the house so they do not have to hear their Nan complain about Boris Johnson’s blow-out while they doom-scroll about toilet paper shortages.Europeans were able to scratch that itch in droves by grabbing an electric bike for every member of the family, causing the biggest surge in electric bike sales the market has seen to date.",
+      "author": "Garrett Rysko",
+      "id": 3
+    },
+    {
+      "title": "Your portfolios are freaking boring.",
+      "body": "UX design is one of the most accessible design industries available in the market today. Anyone can come in and learn the core skillsets to be a user experience professional; and if you do enough research — you can learn it all for free.Anyone can learn how to do interviews, userflows, wireframes and basic UI in a few months. So what makes you so special that I will pay you to do it?",
+      "author": "Garrett Rysko",
+      "id": 4
+    },
+    {
+      "title": "God loves us",
+      "body": "The Bible is the first book which gives all the fa…d and He loves us and cares for us day and night.",
+      "author": "Prince",
+      "id": 5
+    },
+    {
+      "title": "Me",
+      "body": "I am a boy and that's all.",
+      "author": "Prince",
+      "id": 6
+    },
+    {
+      "title": "Home",
+      "body": "Home is any place where some on or some thing might say that it lives.",
+      "author": "",
+      "id": 10
+    }
+  ]
+}
